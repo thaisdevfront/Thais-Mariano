@@ -1,0 +1,22 @@
+*{
+    transition: 3ms;
+}
+body{
+    font-family: 'Inter';
+}
+.btn-primary {
+    background-color: #9F2733;
+    border: 0px;
+}
+.btn-primary1 {
+    background-color: #FFFFFF;
+    color: #323232;
+    border: 0px;
+}
+#navbar{
+    position:absolute;
+    font-size: 16px;    
+    font-weight: 400;
+}
+
+
