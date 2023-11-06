@@ -1,0 +1,64 @@
+div#contato{
+        color: white;
+        background-color: #0F0F0F;
+}
+div#contato .container {
+    display: block;
+    width: 100%;
+    padding: 20% 0px;
+}
+div#contato .content-text {
+    padding: 20% 10% 20%;
+    text-align: center;
+    width: 80%;
+}
+div#contato .form {
+    width: 90%;
+}
+div#contato form {
+    padding: 5px 20px;
+    text-align: center;
+}
+div#contato form input {
+    background-color: #f5f5f5b8;
+    padding: 13px;
+    width: 100%;
+    margin: 5px 0px;
+    border: 0px;
+    border-radius: 20px;
+}
+div#contato .msg{
+    background-color: #f5f5f5b8;
+    padding: 13px;
+    width: 100%;
+    border: 0px;
+    border-radius: 20px;
+}
+div#contato form button {
+    padding: 10px 30px;
+    background-color: #D40134;
+    color: #F5F5F5;
+    border: 0px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+@media (min-width:768px){
+
+    div#contato .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    div#contato .content-text {
+        padding: 10% 50px 10% 0px;
+        text-align: center;
+        width: 40%;
+    }
+    
+    div#contato .form {
+        width: 30%;
+    }
+
+}

@@ -3,14 +3,45 @@ div#produts {
     justify-content: space-around;
     display: block;
 }
-div#produts .container{
+
+div#produts .container {
     display: block;
 }
 div#produts .content-text {
     padding: 30% 5vh;
-    text-align: center;
+    /* text-align: center; */
     color: white;
 }
 div#produts .content-text h1 {
     font-size: 32px;
+}
+div#produts .title {
+    color: white;
+    padding: 20% 5%;
+    width: 90%;
+}
+div#produts h1 {
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+
+@media (min-width:768px){
+
+    div#produts .container{
+        display: flex;
+    }
+    div#produts .title {
+        color: white;
+        padding: 10% 5%;
+        width: 40%;
+    }
+
+    div#produts h1 {
+        font-size: 2.4rem;
+        font-weight: 100;
+        margin-bottom: 15px;
+    }
+
 }

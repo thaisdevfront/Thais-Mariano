@@ -5,7 +5,7 @@ produts.innerHTML=`
 
         <div class="container">
            
-            <div class="content-text">
+            <div class="title">
                 <span>
                     <p>
                         Aqui a evolução é constante
@@ -20,48 +20,45 @@ produts.innerHTML=`
                     No digital, isso é feito com mais facilidade por meio de um cadastro rápido no site, 
                     newsletter, landing page.
                 </p>
-                <a class="btn-c" href="#produts">
+                <a class="btn-c" href="#services">
                     <i class="fa-solid fa-chevron-down"></i>
                 </a>
             </div>
 
             
-                <div class="swiper mySwiper">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
-                        <div class="swiper-slide">
-                        
-                        </div>
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
                     </div>
-                        <div class="swiper-button-next"></div>
-                        <div class="swiper-button-prev"></div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./assets/img/table.png">
+                    </div>
                 </div>
-        
-            
-
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+            </div>
 
         </div>
     </div>
