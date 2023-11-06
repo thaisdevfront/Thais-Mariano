@@ -1,0 +1,16 @@
+div#produts {
+    background-color: #0F0F0F;
+    justify-content: space-around;
+    display: block;
+}
+div#produts .container{
+    display: block;
+}
+div#produts .content-text {
+    padding: 30% 5vh;
+    text-align: center;
+    color: white;
+}
+div#produts .content-text h1 {
+    font-size: 32px;
+}
