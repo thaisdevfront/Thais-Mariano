@@ -1,0 +1,68 @@
+div#design {
+    background-color: #0F0F0F;
+    justify-content: space-around;
+    display: block;
+}
+
+div#design .container {
+    display: block;
+}
+div#design .content-text {
+    padding: 30% 5vh;
+    /* text-align: center; */
+    color: white;
+}
+div#design .content-text h1 {
+    font-size: 32px;
+}
+div#design .title {
+    color: white;
+    padding: 20% 5%;
+    width: 90%;
+}
+div#design h1 {
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+
+@media (min-width:768px){
+
+    div#design .container{
+        display: flex;
+        padding: 0px 0px 50px 0px;
+    }
+    div#design .title {
+        color: white;
+        padding: 10% 5%;
+        width: 40%;
+    }
+
+    div#design h1 {
+        font-size: 2.4rem;
+        font-weight: 100;
+        margin-bottom: 15px;
+    }
+    div#design .swiper {
+            width: 30%;
+            height: 100%;
+        }
+      
+        div#design .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: transparent;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      div#design .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+}

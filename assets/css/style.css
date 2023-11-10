@@ -69,6 +69,7 @@ button img {
     overflow: auto;
     left: 100%;
     transition: 0.3s;
+    z-index: 999999;
 }
 .social h4 {
     text-align: center;
@@ -89,3 +90,9 @@ nav ul li a {
     font-size: 16px;
 }
 
+@media (min-width:768px) {
+    nav ul li {
+        text-align: center;
+        margin: 4% 0px;
+    }
+}

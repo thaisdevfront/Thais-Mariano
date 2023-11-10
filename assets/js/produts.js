@@ -12,7 +12,7 @@ produts.innerHTML=`
                     </p>
                 </span>
                 <h1>
-                    Facilidade de comunicação.    
+                    Facilidade na comunicação.    
                 </h1>
                 <p>
                     Se uma pessoa vai até uma loja física e faz um cartão, por exemplo, 
@@ -29,19 +29,19 @@ produts.innerHTML=`
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/intellec.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/tudopraela.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/Nike.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/olfati.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/doloresatelie.png">
                     </div>
                     <div class="swiper-slide">
                         <img src="./assets/img/table.png">
