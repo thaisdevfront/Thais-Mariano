@@ -16,7 +16,7 @@ design.innerHTML=`
         <p>
             Social media tem como objetivo atrair e engajar o público, para gerar mais tráfego nas páginas de media.
         </p>
-        <a class="btn-c" href="#services">
+        <a class="btn-c" href="#appMovel">
             <i class="fa-solid fa-chevron-down"></i>
         </a>
     </div>

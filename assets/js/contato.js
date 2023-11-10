@@ -17,6 +17,17 @@ contato.innerHTML=`
         <p>
             Você será direcionado para o meu Whatsapp, e retornarei o mais rápido possivel.
         </p>
+        <span>
+            <p>
+                Email : thais.devfrontend@gmail.com
+            </p>
+        </span>
+        <span>
+            <p>
+                 CNPJ: 45.056.613/0001-89 - 45056613000189
+            </p>
+        </span>
+        
         <a class="btn-c" href="https://wa.me/5512981021517" target="_blank">
             Fale agora com especialista
             <i class="fa-solid fa-chevron-down"></i>

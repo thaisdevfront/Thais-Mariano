@@ -35,6 +35,9 @@ produts.innerHTML=`
                         <img src="./assets/img/tudopraela.png">
                     </div>
                     <div class="swiper-slide">
+                        <img src="./assets/img/magic.png">
+                    </div>
+                    <div class="swiper-slide">
                         <img src="./assets/img/Nike.png">
                     </div>
                     <div class="swiper-slide">
@@ -44,17 +47,12 @@ produts.innerHTML=`
                         <img src="./assets/img/doloresatelie.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/colonial.png">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
+                        <img src="./assets/img/ativacred.png">
                     </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/table.png">
-                    </div>
+                    
                 </div>
                     <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div>
