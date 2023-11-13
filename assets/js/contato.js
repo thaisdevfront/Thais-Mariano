@@ -14,9 +14,7 @@ contato.innerHTML=`
             Começe algo 
             novo agora mesmo     
         </h1>
-        <p>
-            Você será direcionado para o meu Whatsapp, e retornarei o mais rápido possivel.
-        </p>
+        
         <span>
             <p>
                 Email : thais.devfrontend@gmail.com

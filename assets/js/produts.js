@@ -15,10 +15,13 @@ produts.innerHTML=`
                     Facilidade na comunicação.    
                 </h1>
                 <p>
-                    Se uma pessoa vai até uma loja física e faz um cartão, por exemplo, 
-                    ela é um lead da empresa pois informou dados, como celular, nome e e-mail. 
-                    No digital, isso é feito com mais facilidade por meio de um cadastro rápido no site, 
-                    newsletter, landing page.
+                    Crior e desenvolvo a aparência visual e a estrutura de um site na internet. 
+                    Com a combinação de elementos visuais, como layout, cores, tipografia, imagens 
+                    e ícones, para criar uma experiência estética e funcional para os usuários que 
+                    visitam o seu site.
+
+                    </br> </br> 
+                    Veja Projetos em que tive o prazer de fazer parte:
                 </p>
                 <a class="btn-c" href="#services">
                     <i class="fa-solid fa-chevron-down"></i>

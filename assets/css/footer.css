@@ -1,0 +1,70 @@
+#footer{
+    color: white;
+    background-color: #0F0F0F;
+}
+#footer .container {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+#footer .content-text {
+    padding: 30vh 15px 100px;
+    text-align: center;
+}
+#footer .nav-footer {
+    display: flex;
+    text-align: center;
+    padding: 10px auto;
+    justify-content: center;
+}
+#footer .nav-footer ul {
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+}
+#footer .nav-footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    margin: 12px auto;
+    display: flex;
+    justify-content: center;
+}
+#footer .a-footer {
+    text-decoration: none;
+    color: #ffffff4f;
+    font-size: 12px;
+    margin: 12px auto;
+    display: flex;
+    justify-content: center;
+}
+#footer button {
+    padding: 13px 15px;
+    background-color: #D40134;
+    border-radius: 100px;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+@media (min-width:768px) {
+    #footer .container {
+        width: 100%;
+        display: block;
+       
+    }
+    #footer .container .foot {
+        display: flex;
+        padding: 50px 10px;
+        justify-content: space-around;
+        align-items: center;
+    }
+    #footer .content-text {
+        padding: 0px;
+        text-align: center;
+    }
+    #footer .container .foot ul li {
+        list-style: none;
+        width: 100%;
+    }
+}

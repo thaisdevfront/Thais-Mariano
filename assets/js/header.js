@@ -37,8 +37,14 @@ Header.innerHTML=`
                     </a>
                 </li>
                 <li>
-                    <a href="#appMovel">
-                        Aplicativo Móvel
+                    <a href="#design">
+                        Social Midia
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="#download">
+                        Download CV
                     </a>
                 </li>
                 <li>
@@ -47,10 +53,9 @@ Header.innerHTML=`
                     </a>
                 </li>
                 <li>
-                    <a href="http://">
-                        Contato
-                    </a>
+                    <button class="btn" id="myBtn">Projeto Pessoal</button>
                 </li>
+                
             </ul>
             <div class="social">
                 <h4>Follow me</h4>

@@ -14,7 +14,8 @@ design.innerHTML=`
             Comunique-se Melhor com Seu Cliente.    
         </h1>
         <p>
-            Social media tem como objetivo atrair e engajar o público, para gerar mais tráfego nas páginas de media.
+        Social media visa atrair e engajar o público, para gerar mais tráfego nas páginas 
+        de media, veja alguns dos materiais feitos por mim.
         </p>
         <a class="btn-c" href="#appMovel">
             <i class="fa-solid fa-chevron-down"></i>
