@@ -28,10 +28,16 @@ div#design h1 {
 
 
 @media (min-width:768px){
-
-    div#design .container{
+    div#design {
+        justify-content: center;
         display: flex;
-        padding: 0px 0px 50px 0px;
+        padding: 80px;
+    }
+    div#design .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        /* padding: 50px; */
     }
     div#design .title {
         color: white;

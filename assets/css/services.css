@@ -10,7 +10,7 @@ div#services .container {
     padding-bottom: 10%;
 }
 div#services .content-text {
-    padding: 10% 15% 10%;
+    margin: 10% auto;
     text-align: center;
 }
 div#services .tab {
@@ -43,14 +43,18 @@ div#services .tab p {
 
 
 @media (min-width:768px){
-    
-div#services .tab {
-    display: flex;
-    width: 90%;
-    justify-content: space-around;
-    margin: 0% auto;
-    text-align: center;
-}
+    div#services .content-text {
+        margin: 0% auto;
+        padding: 10%;
+        text-align: center;
+    }
+    div#services .tab {
+        display: flex;
+        width: 80%;
+        justify-content: space-around;
+        margin: 0% auto;
+        text-align: center;
+    }
 
 
 }

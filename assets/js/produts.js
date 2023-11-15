@@ -8,7 +8,7 @@ produts.innerHTML=`
             <div class="title">
                 <span>
                     <p>
-                        Aqui a evolução é constante
+                        Comunicação
                     </p>
                 </span>
                 <h1>

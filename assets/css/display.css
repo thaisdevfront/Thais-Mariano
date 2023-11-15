@@ -72,8 +72,8 @@ a.btn-c {
         justify-content: center;
         display: flex;
     }
-    #display h1 {
-        font-size: 4rem;
+    h1 {
+        font-size: 2.5rem;
         font-weight: 100;
         margin-bottom: 15px;
     }

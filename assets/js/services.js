@@ -17,7 +17,7 @@ services.innerHTML=`
                 </h1>
                 <p>
                     Consumo de conteúdo digital é bastante vantajoso, tendo em vista que o produto 
-                    torna-se mais acessível e prático.
+                    torna-se mais acessível e prático para o Cliente.
                 </p>
                 <a class="btn-c" href="https://wa.me/5512981021517" target="_blank">
                     Fale agora com especialista

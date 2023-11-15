@@ -8,15 +8,14 @@ Display.innerHTML=`
             <div class="content-text">
                 <span>
                     <p>
-                        Aqui a evolução é constante
+                        Evolução constante
                     </p>
                 </span>
                 <h1>
-                    Evolua.      
+                    Priorize seu negócio.      
                 </h1>
                 <p>
-                    Priorize seu negócio e evolua,
-                    junto da tecnologia.
+                    Crie, desenvolva e conquiste
                 </p>
                 <a class="btn-c" href="#produts">
                     <i class="fa-solid fa-chevron-down"></i>
