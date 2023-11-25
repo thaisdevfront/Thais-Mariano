@@ -26,10 +26,7 @@ contato.innerHTML=`
             </p>
         </span>
         
-        <a class="btn-c" href="https://wa.me/5512981021517" target="_blank">
-            Fale agora com especialista
-            <i class="fa-solid fa-chevron-down"></i>
-        </a>
+       
     </div>
     <div class="form">
         <form action="#" method="get" onsubmit="abrirWhatsapp()">

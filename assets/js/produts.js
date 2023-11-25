@@ -14,48 +14,46 @@ produts.innerHTML=`
                 <h1>
                     Facilidade na comunicação.    
                 </h1>
-                <p>
-                    Crior e desenvolvo a aparência visual e a estrutura de um site na internet. 
-                    Com a combinação de elementos visuais, como layout, cores, tipografia, imagens 
-                    e ícones, para criar uma experiência estética e funcional para os usuários que 
-                    visitam o seu site.
-
-                    </br> </br> 
-                    Veja Projetos em que tive o prazer de fazer parte:
-                </p>
-                <a class="btn-c" href="#services">
-                    <i class="fa-solid fa-chevron-down"></i>
-                </a>
+                
             </div>
 
             
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assets/img/intellec.png">
+                        <a href="https://intellectti.com.br/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/intellec.png">
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/tudopraela.png">
+                        <a href="https://tudopraela.infinityfreeapp.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/tudopraela.png">
+                        </a>    
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/magic.png">
+                        <a href="https://magicjourney.rf.gd/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/magic.png">
+                        </a>
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/Nike.png">
+                        <a href="https://thaisdevfront.github.io/Nike-th/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/Nike.png">
+                        </a>    
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/olfati.png">
+                        <a href="https://thaisdevfront.github.io/Olfati/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/olfati.png">
+                        </a>    
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assets/img/doloresatelie.png">
+                        <a href="https://thaisdevfront.github.io/Dolores-Atelie/" target="_blank" rel="noopener noreferrer">
+                            <img src="./assets/img/doloresatelie.png">
+                        </a>    
                     </div>
                     <div class="swiper-slide">
                         <img src="./assets/img/colonial.png">
                     </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/ativacred.png">
-                    </div>
-                    
+                   
                 </div>
                     <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div>

@@ -17,8 +17,8 @@ footer.innerHTML=`
                 </h1>
                 
                 <a class="btn-c" href="https://wa.me/5512981021517" target="_blank">
-                    Fale agora comigo
-                    <i class="fa-solid fa-chevron-down"></i>
+                    Fale agora
+                    
                 </a>
             </div>
 
@@ -39,12 +39,7 @@ footer.innerHTML=`
                             Serviços
                         </a>
                     </li>
-                    <li>
-                        <a href="#design">
-                            Social Midia
-                        </a>
-                    </li>
-                   
+                    
                     <li>
                         <a href="#download">
                             Download CV
@@ -54,9 +49,6 @@ footer.innerHTML=`
                         <a href="#contato">
                             Contato
                         </a>
-                    </li>
-                    <li>
-                        <button class="btn" id="myBtn">Projeto Pessoal</button>
                     </li>
                     
                 </ul>

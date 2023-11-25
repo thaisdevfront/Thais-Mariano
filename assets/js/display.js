@@ -8,14 +8,14 @@ Display.innerHTML=`
             <div class="content-text">
                 <span>
                     <p>
-                        Evolução constante
+                        Um toque de criatividade.
                     </p>
                 </span>
                 <h1>
-                    Priorize seu negócio.      
+                    Transformando idéias em experiências
                 </h1>
                 <p>
-                    Crie, desenvolva e conquiste
+                    Crie, desenvolva e conquiste a comunicação ideal para novos clientes.
                 </p>
                 <a class="btn-c" href="#produts">
                     <i class="fa-solid fa-chevron-down"></i>

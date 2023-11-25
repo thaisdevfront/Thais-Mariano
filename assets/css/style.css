@@ -36,8 +36,9 @@ button{
 .controls button:last-child{
     justify-content: flex-end;
 }
-.logo img {
-    width: 200px;
+.logo {
+    font-size: 32px;
+    color: white;
 }
 
 .show{

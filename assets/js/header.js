@@ -4,7 +4,7 @@ Header.innerHTML=`
     <header>
         <div class="container-h">
             <div class="logo">
-                <Img src="assets/img/logo.png"></Img>
+                Thais Mariano
             </div>
 
             <div class="menu">
@@ -36,11 +36,6 @@ Header.innerHTML=`
                         Serviços
                     </a>
                 </li>
-                <li>
-                    <a href="#design">
-                        Social Midia
-                    </a>
-                </li>
                 
                 <li>
                     <a href="#download">
@@ -51,9 +46,6 @@ Header.innerHTML=`
                     <a href="#contato">
                         Contato
                     </a>
-                </li>
-                <li>
-                    <button class="btn" id="myBtn">Projeto Pessoal</button>
                 </li>
                 
             </ul>
