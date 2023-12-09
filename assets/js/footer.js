@@ -12,7 +12,7 @@ footer.innerHTML=`
                     </p>
                 </span>
                 <h1>
-                    Portfólio</br>
+                    
                     Thais Mariano.      
                 </h1>
                 

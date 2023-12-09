@@ -30,34 +30,24 @@ button{
     font-size: 22px;
     color: white !important;
 }
-.controls button:first-child{
-    justify-content: flex-start;
-}
-.controls button:last-child{
-    justify-content: flex-end;
-}
-.logo {
-    font-size: 32px;
-    color: white;
-}
-
-.show{
-    left: 0% !important;
-    transition: 0.3s;
-}
 ul li {
     list-style: none;
 }
+                
+                
 header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
+    background: transparent;
     width: 100%;
-    left: 0px !important;
-    margin: 15px 0px;
-    padding: 0px;
+    left: 0;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px auto;
+    z-index: 999;
 }
+
 button img {
     width: 80%;
 }
@@ -69,40 +59,173 @@ button img {
     top: 0px;
     bottom: 0px;
     overflow: auto;
-    left: 100%;
+    left: 0%;
     transition: 0.3s;
     z-index: 999999;
 }
-.social h4 {
-    text-align: center;
-    font-weight: bold;
-}
-.social ul {
-    display: flex;
-    justify-content: space-around;
-}
-nav ul li {
-    text-align: center;
-    margin: 20% 0px;
-}
 
-nav ul li a {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
+
+.menu nav {
+    width: 100%;
 }
-header nav ul li button{
-    padding: 13px 15px;
+.menu nav ul { 
+    justify-content: space-between;
+    align-items: center;
+}
+.menu nav ul li {
+   list-style: none;
+}
+.menu nav ul li a {
+    text-decoration: none;
+ 
+ }
+
+ .menu a.btn.primary.convert-btn {
+    max-width: 150px;
+    max-height: 38px;
+}
+nav .controls {
+    margin: 0 auto;
+}
+li.iten-dropdown .dropdown {
+    display: none;
+    position: relative;
     background-color: white;
-    border-radius: 100px;
-    font-size: 12px;
-    text-decoration: none;
-    color: #D40134;
+}
+li.iten-dropdown:hover .dropdown{
+    display: block;
+    
 }
 
-@media (min-width:768px) {
-    nav ul li {
-        text-align: center;
-        margin: 4% 0px;
+.dropdown ul {
+    background: white;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.dropdown ul li {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dropdown ul li a{
+    text-align: left;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;  
+    width: 100%;
+    opacity: .8;
+    font-size: 15px !important;
+    padding: 10px;
+
+}
+.dropdown ul li a svg{
+    font-size: 13px;
+    margin-right: 10px;
+}
+@media (max-width:1024px){
+    .dropdown, .dropdown ul{
+        margin: 10px  !important;
+    } 
+    .menu nav ul {
+        justify-content: space-between;
+        align-items: center;
+        margin: 60px 30px;
+    }
+    .dropdown ul {
+        padding: 0;
+        margin: 0;
+    }
+    .menu nav ul li {
+        list-style: none;
+        margin: 50px auto;
+    }
+    .dropdown li {
+        margin: 15px 0 !important;
+    }
+    
+    .menu nav ul li a {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 1.4rem;
+    }  
+ nav  {
+    display: none ;
+ }
+ nav {
+    width: 100%;
+}
+    button.btn-menu {
+        background: transparent;
+        border: 0;
+        font-size: 30px;
+        margin-right: 10px;
+    }
+    nav {
+        background:#efefef;
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        padding: 0px;
     }
 }
+@media(min-width:1025px){
+        .menu button{
+            display: none;
+        }
+        .menu nav ul{
+            display: flex;
+        }
+        .menu nav ul li a {
+     
+            text-transform: uppercase;
+            font-weight: 600;
+            opacity: .9;
+        }
+        .dropdown ul li a {
+            
+            font-size: 14px !important;
+            padding: 10px 5px;
+            border-bottom: 1px solid #eee;
+        }
+        li.iten-dropdown .dropdown {
+           
+            position: absolute;
+            margin: 25px 0;
+            width: 300px;   
+        }
+}
+
+    @media(min-width:1400px){
+    header div {
+        margin: 0 3%;
+    }
+    .display span {
+        font-size: 6.0rem !important;
+    }
+    .display h1 {
+        font-size: 3.0rem;
+        letter-spacing: 22px;
+    }
+    .display span {
+        font-size: 6.0rem !important;
+        letter-spacing: 25px;
+    }
+    footer .display a span {
+        font-size: 15px !important;
+        letter-spacing: 0px !important;
+    }
+ }
+ @media(min-width:1400px){
+    nav {
+        max-width: 800px;
+        float: right;
+        width: 618px;
+    }
+
+ }

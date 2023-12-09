@@ -10,8 +10,8 @@ div#services .container {
     padding-bottom: 10%;
 }
 div#services .content-text {
-    margin: 10% auto;
     text-align: center;
+    padding: 20vh 15px 0px;
 }
 div#services .tab {
     display: block;
@@ -41,11 +41,32 @@ div#services .tab p {
     margin: 15px auto;
 }
 
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    justify-content: center;
+}
+.card-container .card {
+    margin: 5px;
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    max-width: 50%;
+}
+.card-header {
+    font-weight: 700;
+    color: #D40134;
+}
+.card p {
+    font-size: .9rem;
+    color: #5c5d6f;
+}
 
 @media (min-width:768px){
     div#services .content-text {
         margin: 0% auto;
-        padding: 10%;
+        padding: 10% 0 0 0;
         text-align: center;
     }
     div#services .tab {
@@ -56,5 +77,19 @@ div#services .tab p {
         text-align: center;
     }
 
-
+    .card-container .card {
+        margin: 10px;
+        background: white;
+        padding: 20px;
+        border-radius: 15px;
+        max-width: 30%;
+    }
+    .card p {
+        font-size: .9rem;
+        color: #5c5d6f;
+        margin-top: 10px;
+    }
+    .details .card {
+        max-width: 34%;
+    }
 }

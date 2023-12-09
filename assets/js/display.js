@@ -8,11 +8,11 @@ Display.innerHTML=`
             <div class="content-text">
                 <span>
                     <p>
-                        Um toque de criatividade.
+                        transforme idéias em experiências.
                     </p>
                 </span>
                 <h1>
-                    Transformando idéias em experiências
+                    Agora ficou fácil, <br> Um toque de criatividade.
                 </h1>
                 <p>
                     Crie, desenvolva e conquiste a comunicação ideal para novos clientes.

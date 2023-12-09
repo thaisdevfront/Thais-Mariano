@@ -8,12 +8,16 @@ produts.innerHTML=`
             <div class="title">
                 <span>
                     <p>
-                        Comunicação
+                        Hambiente de rápidas mudanças tecnológicas
                     </p>
                 </span>
+                
                 <h1>
-                    Facilidade na comunicação.    
+                    Ações diferentes e inovadoras.      
                 </h1>
+                <p>
+                    Sites e lojas Criados, desenvolvidos e finalizados por nossos profissionais.
+                </p>
                 
             </div>
 

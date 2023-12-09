@@ -1,0 +1,30 @@
+div#sobre {
+    color: white;
+    background-color: #0F0F0F;
+}
+div#sobre .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+div#sobre .content-text {
+    margin: 10% auto;
+    text-align: center;
+}
+#sobre .title {
+    padding: 5%;
+}
+
+@media (min-width:768px){
+
+    div#sobre .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+    }
+    #sobre .title {
+        padding: 10%;
+    }
+}
