@@ -23,32 +23,22 @@ footer.innerHTML=`
             </div>
 
             <div class="nav-footer"> 
+            
+           
+           
+           
                 <ul >
                     <li>
-                        <a href="#">
-                            Inicio
-                        </a>
+                        <a href="#">Inicio</a>
                     </li>
                     <li>
-                        <a href="#produts">
-                            Produtos
-                        </a>
+                        <a href="#produts"> Produtos</a>
                     </li>
                     <li>
-                        <a href="#services">
-                            Serviços
-                        </a>
-                    </li>
-                    
-                    <li>
-                        <a href="#download">
-                            Download CV
-                        </a>
+                         <a href="#services">Serviços</a>
                     </li>
                     <li>
-                        <a href="#contato">
-                            Contato
-                        </a>
+                        <a href="#contato">Contato</a>
                     </li>
                     
                 </ul>

@@ -1,10 +1,9 @@
-function openMenu(){
-    var ulmenu=document.getElementById("ulmenu")
-    ulmenu.classList.toggle("show")
-
-
-
-    
-    console.log("menu", ulmenu)
-}
+function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
 
